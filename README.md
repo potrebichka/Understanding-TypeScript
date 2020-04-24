@@ -33,3 +33,6 @@ tsx
 ```
 tsx -w
 ```
+
+If you want to exclude file from compiling:
+in tsconfig.json add to "exclude": ["name of file"]
